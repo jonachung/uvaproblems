@@ -1,0 +1,31 @@
+17 17 49
+17 49 56
+17 49 9 : illegal move
+17 49 17
+17 49 25
+17 49 33
+17 49 41
+17 49 49 : illegal move
+56 48 49 : stop
+
+
+
+Illegal state
+Illegal move
+Illegal move
+Illegal move
+Move not allowed
+Continue
+Continue
+Illegal move
+Stop
+
+17 17 49
+17 49 56
+17 49 9
+17 49 17
+17 49 25
+17 49 33
+17 49 41
+17 49 49
+56 48 49
